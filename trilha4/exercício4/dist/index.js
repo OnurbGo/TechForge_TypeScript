@@ -1,6 +1,4 @@
 "use strict";
-//Crie uma classe Biblioteca que contenha um array de livros que implementem Livro.
-//Implemente um método buscarLivrosDisponiveis() que retorne um array com todos os livros cuja propriedade disponivel seja true
 class Biblioteca {
     constructor(livros) {
         this.livros = livros;
